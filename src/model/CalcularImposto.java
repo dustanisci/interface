@@ -1,7 +1,5 @@
 package model;
 
-import interfaces.Tributavel;
-
 public class CalcularImposto {
 
 	private double totalImposto;
